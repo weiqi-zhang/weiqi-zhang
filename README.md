@@ -1,6 +1,6 @@
 ### Hi there 👋
 - :man_technologist: I'm Weiqi Zhang, a Master's Student at Tsinghua University
-- :telescope: Exploring: 3D reconstruction, cross-modal learning and generative models
+- :telescope: My research interests lie in the area of 3D computer vision and grapics, especially in 3D reconstruction, multi-view 3D reconstruction, generative models and and surface reconstruction from point clouds.
 
 
 ⚡ Recent ⚡
