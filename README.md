@@ -4,6 +4,7 @@
 
 
 ⚡ Recent ⚡
+
 💬☲ **Two** 𝐩𝐚𝐩𝐞𝐫s got accepted in **NeurIPS-2024**
 
 [🔭DiffGS: Functional Gaussian Splatting Diffusion🔭](https://junshengzhou.github.io/DiffGS/) 
