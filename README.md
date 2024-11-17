@@ -4,8 +4,14 @@
 
 
 ⚡ Recent ⚡
+💬☲ **Two** 𝐩𝐚𝐩𝐞𝐫s got accepted in **NeurIPS-2024**
+
+[🔭DiffGS: Functional Gaussian Splatting Diffusion🔭](https://junshengzhou.github.io/DiffGS/) 
+
+[🔭MultiPull: Detailing Signed Distance Functions by Pulling Multi-Level Queries at Multi-Step🔭](https://takeshie.github.io/MultiPull/) 
 
 💬☲ **One** 𝐩𝐚𝐩𝐞𝐫 got accepted in **CVPR-2024**
+
 [🔭UDiFF: Generating Conditional Unsigned Distance Fields with Optimal Wavelet Diffusion🔭](https://weiqi-zhang.github.io/UDiFF/) 
 ### 📧 Contact Me: zwq23@mails.tinghua.edu.cn
 
