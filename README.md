@@ -4,10 +4,11 @@
 
 
 ⚡ Recent ⚡
+
 💬☲ **One** 𝐩𝐚𝐩𝐞𝐫 got accepted in **CVPR-2025**
 
 [🔭Learning Bijective Surface Parameterization for Inferring Signed Distance Functions from Sparse Point Clouds with Grid Deformation🔭](https://weiqi-zhang.github.io/UDiFF/) 
-### 📧 Contact Me: zwq23@mails.tinghua.edu.cn
+
 
 💬☲ **Two** 𝐩𝐚𝐩𝐞𝐫s got accepted in **NeurIPS-2024**
 
